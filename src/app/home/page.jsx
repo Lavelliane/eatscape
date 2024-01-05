@@ -10,7 +10,7 @@ function HomePage() {
     <>
       <Sidebar>
         <h1>Hello</h1>
-        <Button text="This is my Button"/>
+        <Button text="I love you"/>
       </Sidebar>
     </>
   );
