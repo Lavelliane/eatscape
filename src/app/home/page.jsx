@@ -9,11 +9,11 @@ function HomePage() {
   
   return (
     <>
-      <Sidebar>
-      
-      </Sidebar>
-      
-     
+      <div className="bg-white">
+        <Sidebar>
+          <h1 className="text-black">NOT FOUND</h1>
+        </Sidebar>
+      </div>
     </>
   );
 }
